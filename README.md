@@ -4,7 +4,7 @@ A new Flutter project.
 
 ##Screenshots
 | En | Select | Vi |
-| - | - | - | - | - |
+| - | - | - |
 | ![](screenshots/en.png) | ![](screenshots/select_language.png) | ![](screenshots/vi.png) |
 
 ## Getting Started
